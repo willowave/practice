@@ -1,2 +1,0 @@
-local test
-remote test  1
